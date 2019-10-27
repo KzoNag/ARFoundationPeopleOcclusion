@@ -54,7 +54,7 @@ Set proper shader to PeopleOcclusionBackground material.(Legacy one is default)
 They are based on default background shader located on *Packages/ARKit XR Plugin/Assets/Shaders*.  
 
 **NOTE**  
-Universal one is not enough tested.
+LWRP one is tested on **lwrp** branch. Universal one is not enough tested.
 
 ### License
 [MIT](https://github.com/KzoNag/ARFoundationPeopleOcclusion/blob/master/LICENSE)
